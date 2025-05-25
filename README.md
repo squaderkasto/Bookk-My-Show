@@ -1,5 +1,6 @@
-#Book-My-Show
-**Project Summary:** Book My Show App
+**#Book-My-Show**
+
+**Project Summary:** 
 This web application allows users to select movie names, choose a slot, and book seats for their preferred showtimes. The app also provides users with the option to view their previous bookings. The project utilized a combination of front-end and back-end technologies to deliver a seamless user experience.
 
 **Front-End Technologies:**
