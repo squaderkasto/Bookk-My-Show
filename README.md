@@ -30,4 +30,6 @@ By utilizing the capabilities of MongoDB Atlas, the backend provides a reliable 
 
 This integrated approach between the frontend and backend, coupled with the power of MongoDB Atlas, delivers a seamless and efficient user experience while maintaining the integrity and persistence of user data.
 
+
+
 Overall, here successfully implemented a Book My Show app that allows users to conveniently book movie tickets online. By utilizing React, CSS, React Hooks, and Axios on the front end, along with MongoDB and Express.js on the back end, we delivered a seamless and user-friendly experience. The app offers the essential features of movie selection, slot and seat selection, booking confirmation, and a history of previous bookings.
