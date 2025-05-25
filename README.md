@@ -1,9 +1,11 @@
 **#Book-My-Show**
 
 **Project Summary:** 
+
 This web application allows users to select movie names, choose a slot, and book seats for their preferred showtimes. The app also provides users with the option to view their previous bookings. The project utilized a combination of front-end and back-end technologies to deliver a seamless user experience.
 
 **Front-End Technologies:**
+
 React: We chose React as our front-end framework due to its component-based architecture, which enabled us to create reusable UI elements and efficiently manage state throughout the application.
 
 CSS Styling: We used CSS to style the application, ensuring an attractive and intuitive user interface that aligns with the Book My Show brand.
@@ -13,6 +15,7 @@ React Hooks: Leveraging React Hooks allowed us to manage state and perform side 
 Axios: To fetch data from the server, we integrated Axios, a popular JavaScript library that simplifies the process of making HTTP requests.
 
 **Back-End Technologies:**
+
 MongoDB: We selected MongoDB as our database to store movie details, slot information, seat availability, and user bookings. Its flexibility and scalability made it an ideal choice for our application.
 
 Express.js: As the back-end framework, Express.js facilitated the creation of a robust API for handling user requests, managing data, and communicating with the database.
