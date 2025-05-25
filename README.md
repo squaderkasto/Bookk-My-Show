@@ -1,6 +1,6 @@
-**#Book-My-Show**
+# BOOK MY SHOW APP
 
-### 'Project Summary:'
+### `PROJECT SUMMERY`
 
 This web application allows users to select movie names, choose a slot, and book seats for their preferred showtimes. The app also provides users with the option to view their previous bookings. The project utilized a combination of front-end and back-end technologies to deliver a seamless user experience.
 
